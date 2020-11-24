@@ -2,5 +2,6 @@
 
 首先查看是否安装了git，可以在设置里面看git enable
 然后在github上面新建一个仓库，把仓库链接复制下来
+增加git remote, 指令 view->command paletter -> Git： add remote
 把修改的文件commiet到git里面
 把git push 到github
